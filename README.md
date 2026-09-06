@@ -14,3 +14,6 @@ print(f"\nThe distance between the two points is: {distance:.2f}")
 # Using a library is easier because it provides functions that make
 # calculations easier. math.sqrt() and math.pow() simplify
 # the distance formula instead of calculating everything from the beginning.
+
+
+#some ai was used to double check the code and functions.  
